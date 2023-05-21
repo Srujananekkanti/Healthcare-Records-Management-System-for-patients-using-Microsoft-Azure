@@ -1,0 +1,2 @@
+# Healthcare-Records-Management-System-for-patients-using-Microsoft-Azure
+We the students carried out a project titled "Healthcare Record Management System for Patient using Microsoft Azure". The main aim of this project is patient can access their health records at any where at any time. Here we are presenting a web application for the Healthcare records management system  for patients using Microsoft azure. 
